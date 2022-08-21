@@ -1,0 +1,11 @@
+--List the 5 longest (length) movies in the movie table and the movie title (title) ends with the 'n' character.
+
+Select * from film where title like '%n' ORDER BY length DESC LIMIT 5;  
+
+--List the second 5 shortest (length) movies in the movie table and the movie title (title) ends with the 'n' character.
+
+Select * from film where title like '%n' ORDER BY length ASC LIMIT 5; 
+
+--Sort the first 4 data, provided that store_id is 1 in the descending order according to the last_name column in the customer table.
+
+Select * from customer where sotere_id=1 Order By last_name DESC LIMIT 4;

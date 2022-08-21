@@ -1,0 +1,15 @@
+--Sort the different values ​​in the replacement_cost column in the movie table.
+
+  Select DISTINCT replacement_cost from film; 
+--How many different data are there in the replacement_cost column in the movie table?
+
+     Select COUNT (DISTINCT (replacement_cost)) from film; 
+--How many of the movie titles in the movie table start with the character T and at the same time the rating is equal to 'G'?
+
+  Select COUNT(*) from film WHERE title ILIKE 'T%' and rating='G';
+--How many of the country names (country) in the country table consist of 5 characters?
+
+ Select COUNT(*)  from country where country like '_____' ;
+--How many of the city names in the city table end with the character 'R' or r?
+
+ Select * from city where city like '%r';

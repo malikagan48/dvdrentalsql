@@ -1,0 +1,16 @@
+--In the movie table, the movie length is shown in the length column. How many movies are longer than the average movie length?
+
+Select COUNT(*) from film where length>(Select avg(length) from film);
+--How many movies have the highest rental_rate in the movie table?
+
+Select COUNT(*) from film WHERE rental_rate = (SELECT MAX(rental_rate) FROM film); 
+
+--In the movie table, list the movies with the lowest rental_rate and the lowest replacement_cost values.
+
+--In the payment table, list the customers who make the most purchases.
+
+SELECT customer_id,COUNT(customer_id) AS total_transactions
+FROM payment
+GROUP BY customer_id
+ORDER BY total_transactions DESC
+LIMIT 3;
