@@ -1,0 +1,15 @@
+C:\Users\Kagan\source\repos\Phone\bin\Debug\net6.0\Phone.exe
+C:\Users\Kagan\source\repos\Phone\bin\Debug\net6.0\Phone.deps.json
+C:\Users\Kagan\source\repos\Phone\bin\Debug\net6.0\Phone.runtimeconfig.json
+C:\Users\Kagan\source\repos\Phone\bin\Debug\net6.0\Phone.dll
+C:\Users\Kagan\source\repos\Phone\bin\Debug\net6.0\Phone.pdb
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.csproj.AssemblyReference.cache
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.AssemblyInfoInputs.cache
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.AssemblyInfo.cs
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.dll
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\refint\Phone.dll
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.pdb
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\Phone.genruntimeconfig.cache
+C:\Users\Kagan\source\repos\Phone\obj\Debug\net6.0\ref\Phone.dll
