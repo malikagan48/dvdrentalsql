@@ -8,15 +8,15 @@ namespace Projects
 {
     internal class ClassVeriables
     {
-        Calisan calisan1 = new Calisan("Ayşe", "Kara", 543183, "İnsan kaynakları");//nesneye ayağı kaldırma işlemi
+        Calisan calisan1 = new Calisan("ali", "numan", 543183, "bt");//nesneye ayağı kaldırma işlemi
 
         calisan1.CalisanBilgileri();
             Console.WriteLine("**************************");
             Calisan calisan2 = new Calisan();
-        calisan2.Ad = "sami";
-            calisan2.Soyad = "yagmur";
-            calisan2.No = 165463;
-            calisan2.Depertman = "Geme development";
+        calisan2.Ad = "kagan";
+            calisan2.Soyad = "kucuk";
+            calisan2.No = 1321321;
+            calisan2.Depertman = "backend";
 
             calisan2.CalisanBilgileri();
         }
